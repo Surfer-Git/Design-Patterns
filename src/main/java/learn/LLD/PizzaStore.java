@@ -1,5 +1,7 @@
 package learn.LLD;
 
+import learn.LLD.pizzas.Pizza;
+
 public abstract class PizzaStore {
 
     public void orderPizza(String type){
